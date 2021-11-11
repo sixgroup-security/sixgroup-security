@@ -1,1 +1,1 @@
-## 👋 Welcome to the GitHub page of the Corporate Security team of SIX Group
+## 👋 Welcome to the GitHub page of the security team of SIX Group
